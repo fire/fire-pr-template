@@ -3,4 +3,4 @@
 	url = fire-godot
 [submodule "godot"]
 	path = godot
-	url = git@github.com:V-Sekai/godot.git
+	url = git@github.com:fire/godot.git
